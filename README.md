@@ -1,7 +1,7 @@
 # Profile-Card
 This web project is done using html, css , js
 ### netlify link
-https://weather-infosite.netlify.app/
+https://sneha-profile-card.netlify.app/
 
 ## Features of the project:
 - It has a profile image with name and designation.
