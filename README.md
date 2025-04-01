@@ -1,5 +1,5 @@
 # Profile-Card
-This web project is done using html, css , js
+This web project is done using html and css
 ### netlify link
 https://sneha-profile-card.netlify.app/
 
